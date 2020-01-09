@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robo-typescript/static/css/main.6463ac0e.chunk.css",
-    "main.js": "/robo-typescript/static/js/main.f19c63e2.chunk.js",
-    "main.js.map": "/robo-typescript/static/js/main.f19c63e2.chunk.js.map",
+    "main.css": "/robo-typescript/static/css/main.6efa0a38.chunk.css",
+    "main.js": "/robo-typescript/static/js/main.7bbc09ea.chunk.js",
+    "main.js.map": "/robo-typescript/static/js/main.7bbc09ea.chunk.js.map",
     "runtime-main.js": "/robo-typescript/static/js/runtime-main.d28d3d8c.js",
     "runtime-main.js.map": "/robo-typescript/static/js/runtime-main.d28d3d8c.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robo-typescript/static/css/2.eb45ad44.chunk.css",
     "static/js/2.866dfc00.chunk.js": "/robo-typescript/static/js/2.866dfc00.chunk.js",
     "static/js/2.866dfc00.chunk.js.map": "/robo-typescript/static/js/2.866dfc00.chunk.js.map",
     "index.html": "/robo-typescript/index.html",
-    "precache-manifest.e5f891dd7fb222667a89bd38f6ba3aaa.js": "/robo-typescript/precache-manifest.e5f891dd7fb222667a89bd38f6ba3aaa.js",
+    "precache-manifest.b9d8b26205556801466bb4694b58e9a4.js": "/robo-typescript/precache-manifest.b9d8b26205556801466bb4694b58e9a4.js",
     "service-worker.js": "/robo-typescript/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robo-typescript/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.6463ac0e.chunk.css.map": "/robo-typescript/static/css/main.6463ac0e.chunk.css.map",
+    "static/css/main.6efa0a38.chunk.css.map": "/robo-typescript/static/css/main.6efa0a38.chunk.css.map",
     "static/js/2.866dfc00.chunk.js.LICENSE": "/robo-typescript/static/js/2.866dfc00.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d28d3d8c.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.866dfc00.chunk.js",
-    "static/css/main.6463ac0e.chunk.css",
-    "static/js/main.f19c63e2.chunk.js"
+    "static/css/main.6efa0a38.chunk.css",
+    "static/js/main.7bbc09ea.chunk.js"
   ]
 }
