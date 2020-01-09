@@ -8,6 +8,7 @@ interface ISearchBoxProps{
 const SearchBox = ({ searchChange }: ISearchBoxProps) => {
   return (
     <div className='pa2'>
+      <label htmlFor='search'></label>
       <input
         className='pa3 ba b--green bg-lightest-blue'
         type='search'
