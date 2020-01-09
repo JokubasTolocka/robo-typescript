@@ -7,15 +7,15 @@ interface ISearchBoxProps{
 
 const SearchBox = ({ searchChange }: ISearchBoxProps) => {
   return (
-    <div className='pa2'>
-      <label htmlFor='search'>
+    <div className='pa2'> 
+      <label className='label' htmlFor='robot-search'>Search</label>
       <input
+        id='robot-search'
         className='pa3 ba b--green bg-lightest-blue'
         type='search'
         placeholder='search robots'
         onChange={searchChange}
       />
-      </label>
     </div>
   );
 };
